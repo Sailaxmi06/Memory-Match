@@ -1,4 +1,4 @@
-// JavaScript to handle game logic
+// JavaScript to handle game logic 
 
 const cardValues = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
 let flippedCards = [];
