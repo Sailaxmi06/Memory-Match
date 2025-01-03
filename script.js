@@ -1,6 +1,6 @@
 // JavaScript to handle game logic
 
-const cardValues = ['sai laxmi', 'afreen', 'rajitha', 'Deepika', 'siri', 'devasree','ushasree','sameera','samvitha','meghana','neha','roshini ','sai laxmi', 'afreen', 'rajitha', 'Deepika', 'siri', 'devasree', 'ushasree', 'sameera','samvitha','meghana',neha','roshini'];
+const cardValues = ['sai', 'Deepika', 'siri', 'devasree','ushasree','sameera','samvitha','afrin ','sai', 'deepika', 'siri','devasree', 'ushasree', 'sameera','samvitha','afrin'];
 let flippedCards = [];
 let matchedCards = [];
 let boardLocked = false;
